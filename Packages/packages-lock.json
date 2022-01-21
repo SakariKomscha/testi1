@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.easyar.sense": {
-      "version": "file:C:/Users/sakar/Desktop/ARSovellus/package",
+      "version": "file:C:/Users/Jarkko/Downloads/EasyARSenseUnityPlugin_4.4.0+2424.469da7da/com.easyar.sense-4.4.0+2424.469da7da/package",
       "depth": 0,
       "source": "local",
       "dependencies": {
