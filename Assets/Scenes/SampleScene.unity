@@ -808,7 +808,7 @@ MonoBehaviour:
   SourceType: 0
   ImageFileSource:
     PathType: 1
-    Path: Logic.png
+    Path: jarkkotracking.jpg
     Name: Foli
     Scale: 2
   TargetDataFileSource:
